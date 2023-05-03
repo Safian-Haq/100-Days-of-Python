@@ -10,22 +10,22 @@ Overall this challenge has exposed me to various tools which I use to create pra
 
 Not very challenging for me but a good refresher nevertheless.
 
-| Day   | Project                                      | Summary                                                                                                                      | Link     |
-| ----- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 17    | Trivia                                       | Using OOP to provide some modularity for a simple text-based trivia game. | [Repo]() |
-| 18    | Hirst Painting                               | Intro to GUI concepts using Turtle to build a Hirst dot pattern painting. | [Repo]() |
-| 19    | Turtle Race                                  | Using Turtle to build a simple Turtle racing simulation.                                                                     | [Repo]() |
-| 20-21 | Snake Game                                   | Used OOP concepts with Turtle to make a Snake Game. Built mostly from scratch.                                               | [Repo]() |
-| 22    | Pong!                                        | Used inheritance to extend Turtle objects and created the Pong game.                                                         | [Repo]() |
-| 23    | Turtle Crossing                              | A capstone project using all the techniques learnt previously to build a 2d version of Crossy road with blocks and a turtle. | [Repo]() |
-| 24    | Mail-Merge                                   | Used file I/O to save high scores in the Snake game.                                                                         | [Repo]() |
-| 25    | Guess The State!                             | Created a guess the state game using Turtle and Pandas.                                                                      | [Repo]() |
-| 26    | Nato Alphabet                                | Used pandas to read files and create basic letter to word mapping commandline tool.                                          | [Repo]() |
-| 27    | Mile to Km Converter                         | Intro to Tkinter.                                                                                                            | [Repo]() |
-| 28    | Pomodoro Timer                               | Tkinter cont. Built a GUI based Pomodoro timer.                                                                              | [Repo]() |
-| 29    | Password Generator 2.0                       | Tkinter cont. Built a GUI based Password Manager and practiced some syntactic sugar like List Comprehensions.                | [Repo]() |
-| 30    | Improve Nato Alphabet and Password Generator | Intro to exception handling in Python.                                                                                       | [Repo]() |
-| 31    | Capstone: Flash Card Study app!              | Built a GUI based flash card app for learning language using Tkinter and pandas.                                             | [Repo]() |
+| Day   | Project                                      | Summary                                                                                                                      | Link                                                                                 |
+| ----- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 17    | Trivia                                       | Using OOP to provide some modularity for a simple text-based trivia game.                                                    | [Repo](https://github.com/Safian-Haq/100-Days-of-Python/tree/main/projects/Day%2017) |
+| 18    | Hirst Painting                               | Intro to GUI concepts using Turtle to build a Hirst dot pattern painting.                                                    | [Repo]()                                                                             |
+| 19    | Turtle Race                                  | Using Turtle to build a simple Turtle racing simulation.                                                                     | [Repo]()                                                                             |
+| 20-21 | Snake Game                                   | Used OOP concepts with Turtle to make a Snake Game. Built mostly from scratch.                                               | [Repo]()                                                                             |
+| 22    | Pong!                                        | Used inheritance to extend Turtle objects and created the Pong game.                                                         | [Repo]()                                                                             |
+| 23    | Turtle Crossing                              | A capstone project using all the techniques learnt previously to build a 2d version of Crossy road with blocks and a turtle. | [Repo]()                                                                             |
+| 24    | Mail-Merge                                   | Used file I/O to save high scores in the Snake game.                                                                         | [Repo]()                                                                             |
+| 25    | Guess The State!                             | Created a guess the state game using Turtle and Pandas.                                                                      | [Repo]()                                                                             |
+| 26    | Nato Alphabet                                | Used pandas to read files and create basic letter to word mapping commandline tool.                                          | [Repo]()                                                                             |
+| 27    | Mile to Km Converter                         | Intro to Tkinter.                                                                                                            | [Repo]()                                                                             |
+| 28    | Pomodoro Timer                               | Tkinter cont. Built a GUI based Pomodoro timer.                                                                              | [Repo]()                                                                             |
+| 29    | Password Generator 2.0                       | Tkinter cont. Built a GUI based Password Manager and practiced some syntactic sugar like List Comprehensions.                | [Repo]()                                                                             |
+| 30    | Improve Nato Alphabet and Password Generator | Intro to exception handling in Python.                                                                                       | [Repo]()                                                                             |
+| 31    | Capstone: Flash Card Study app!              | Built a GUI based flash card app for learning language using Tkinter and pandas.                                             | [Repo]()                                                                             |
 
 ## Intermediate++ 🐤
 
@@ -56,37 +56,37 @@ Making robots that do stuff.
 | --- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | 48  | Cookie Clicker  | A bot that autoplays the [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) game using Selnium. A dangerously addictive game.                                | [Repo]() |
 | 49  | Bot: Linkedin   | A bot that auto searches for jobs and can apply for them. (I used the save button instead of apply)                                                                   | [Repo]() |
-| 50  | ~~Bot: Tinder~~ | NOPE. I'm not that desperate.                                                                                                                            | [Repo]() |
+| 50  | ~~Bot: Tinder~~ | NOPE. I'm not that desperate.                                                                                                                                         | [Repo]() |
 | 51  | Bot: Twitter    | A bot that tweets if the internet speed is below the advertised speed using Selenium.                                                                                 | [Repo]() |
 | 52  | Bot: Instagram  | A bot that can be used on Instagram to follow users following a specified account. This can be used by businesses to target customers that follow the specified page. | [Repo]() |
 | 53  | Bot: Data Entry | Built a bot more relevant in Pakistan's context by scrapping Zameen.com for property listings and adding the data to a google form.                                   | [Repo]() |
 
 ## Web dev with Flask 🌶
 
-| Day | Project               | Summary                                                                                                                                | Link     |
-| --- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| 54  | Intro to Flask        | The firt time I got introduced to the Flask and a web dev framework. Also learnt about Python Decorators.   | [Repo]() |
-| 55  | Flask: Higher-Lower   | Learnt how to debug Flask apps, use Dynamic URLs and how arguments work with decorators.                    | [Repo]() |
-| 56  | Flask: Name Card Site | Learnt how to utilize templates, manage static elements and render HTML pages in Flask.                  | [Repo]() |
-| 57  | Flask: Blog I         | Learnt how dynamically build HTML pages using Jinja templating language and URL building in Flask.| [Repo]() |
+| Day | Project               | Summary                                                                                                                                                                             | Link     |
+| --- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 54  | Intro to Flask        | The firt time I got introduced to the Flask and a web dev framework. Also learnt about Python Decorators.                                                                           | [Repo]() |
+| 55  | Flask: Higher-Lower   | Learnt how to debug Flask apps, use Dynamic URLs and how arguments work with decorators.                                                                                            | [Repo]() |
+| 56  | Flask: Name Card Site | Learnt how to utilize templates, manage static elements and render HTML pages in Flask.                                                                                             | [Repo]() |
+| 57  | Flask: Blog I         | Learnt how dynamically build HTML pages using Jinja templating language and URL building in Flask.                                                                                  | [Repo]() |
 | 58  | Bootstrap: Tindog     | Spent 2 days (8 hours of video) and built a website from scratch using Bootstrap 5. Lessons were in Bootstrap 4 so adapted them to Bootstrap 5 and also used freeCodeCamp for help. | [Repo]() |
 
 ## Advanced 🐔
 
 ### Web dev with Flask 🌶 cont.
 
-| Day | Project                  | Progress                                                                                                                                                    | Link       |
-| --- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| 59  | Blog II                  | Used Bootstrap and the [Clean Blog Template](https://startbootstrap.com/theme/clean-blog) to create an updated version of the previous blog website.| [Repo]()   |
-| 60  | Blog cont.: Contact Form | Built a contact form in the blog and learnt about GET/POST methods usage to create forms in HTML & Flask.request module.| [Repo]()   |
-| 61  | Secrets                  | Created a Login page using Flask_WTF and then learnt about quick_forms.| [Repo]()   |
-| 62  | Coffee & Wifi site       | Built a simple site where a user can input data, save it to a csv file and display the data table using Flask, Flask_WTF and Bootstrap.  | [Repo]()   |
-| 63  | Book Collection          | Built a basic CRUD application using sqlite and SQLAlchemy as a SQL database. | [Repo]()   |
-| 64  | Capstone: Top Movies     | Built a movie collection website with CRUD capabilities using sqllite db, TMDB API for getting data and bootstrap for styling.           | [Repo]()   |
-| 65  | Web Design School        | No project. Learnt about the following design principles: Color Theory, Typography, Hierarchy and UX Design. | N/A        |
-| 66  | Cafe API                 | Built a RESTful API using Flask and used Postman for documentation.| [Repo]() [Postman Doc](https://documenter.getpostman.com/view/26522522/2s93RMUvNA)   |
-| 67  | Blog III                 | Improved the Blog website by adding a database and adding additional functionality. (Delete and Edit blog)| [Repo]()   |
-| 68  | Authentication           | Learnt about Flask Login, authentication and using encryption to store passwords.| [Repo]()   |
-| 69  | Blog IV                  | Update the blog with authentication, access to functionality based on user logged in and creating relationships between tables in database.  | [Repo]()   |
+| Day | Project                  | Progress                                                                                                                                             | Link                                                                               |
+| --- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 59  | Blog II                  | Used Bootstrap and the [Clean Blog Template](https://startbootstrap.com/theme/clean-blog) to create an updated version of the previous blog website. | [Repo]()                                                                           |
+| 60  | Blog cont.: Contact Form | Built a contact form in the blog and learnt about GET/POST methods usage to create forms in HTML & Flask.request module.                             | [Repo]()                                                                           |
+| 61  | Secrets                  | Created a Login page using Flask_WTF and then learnt about quick_forms.                                                                              | [Repo]()                                                                           |
+| 62  | Coffee & Wifi site       | Built a simple site where a user can input data, save it to a csv file and display the data table using Flask, Flask_WTF and Bootstrap.              | [Repo]()                                                                           |
+| 63  | Book Collection          | Built a basic CRUD application using sqlite and SQLAlchemy as a SQL database.                                                                        | [Repo]()                                                                           |
+| 64  | Capstone: Top Movies     | Built a movie collection website with CRUD capabilities using sqllite db, TMDB API for getting data and bootstrap for styling.                       | [Repo]()                                                                           |
+| 65  | Web Design School        | No project. Learnt about the following design principles: Color Theory, Typography, Hierarchy and UX Design.                                         | N/A                                                                                |
+| 66  | Cafe API                 | Built a RESTful API using Flask and used Postman for documentation.                                                                                  | [Repo]() [Postman Doc](https://documenter.getpostman.com/view/26522522/2s93RMUvNA) |
+| 67  | Blog III                 | Improved the Blog website by adding a database and adding additional functionality. (Delete and Edit blog)                                           | [Repo]()                                                                           |
+| 68  | Authentication           | Learnt about Flask Login, authentication and using encryption to store passwords.                                                                    | [Repo]()                                                                           |
+| 69  | Blog IV                  | Update the blog with authentication, access to functionality based on user logged in and creating relationships between tables in database.          | [Repo]()                                                                           |
 
 Readme design inspired by [paulipotter](https://github.com/paulipotter/Python-100-Days-of-Code/blob/main/README.md)
