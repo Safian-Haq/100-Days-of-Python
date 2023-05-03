@@ -2,7 +2,7 @@
 
 # 100-Days-of-Python
 
-A collection of some lessons I completed as part of the 100 Days of Python code challenge.
+A collection of projects/lessons I completed as part of the 100 Days of Python code challenge.
 
 Overall this challenge has exposed me to various tools which I use to create practical business solutions/POCs.
 
