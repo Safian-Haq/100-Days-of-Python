@@ -1,0 +1,15 @@
+User
+	id
+	email
+	password
+	blog_posts = relationship('BlogPost', back_populates='author')
+
+BlogPost
+	id
+	title
+	content
+	img_url
+
+	author_id = ForeignKey( User.id )
+	author = relationship('User', back_populates='bog_posts')
+
